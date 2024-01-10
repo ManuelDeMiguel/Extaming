@@ -1,0 +1,17 @@
+.no-resize {
+    resize: none;
+}
+
+.nav-color{
+    background-color: dodgerblue;
+}
+
+.content-style{
+    background: radial-gradient(red, blue);
+    min-height: calc(100vh - 120px);
+    color: white
+}
+
+.footer-color{
+    background-color: dodgerblue;
+}
